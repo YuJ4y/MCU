@@ -1,1 +1,5 @@
-# MCU
+# MCU![week6-1](https://user-images.githubusercontent.com/91170833/138024346-3da2a845-d22a-4844-b8c1-a1381d9ca723.png)
+![week6-2](https://user-images.githubusercontent.com/91170833/138024347-dd9dfe3d-85a7-4621-9839-16db24453270.png)
+![week6-3](https://user-images.githubusercontent.com/91170833/138024353-e8cb09db-f704-45a1-aa5c-a0496922a8c9.png)
+![week6-4](https://user-images.githubusercontent.com/91170833/138024355-64e7df55-97b3-4c0f-811e-cfad91db6044.png)
+![week6-5](https://user-images.githubusercontent.com/91170833/138024358-14618d93-be86-40c2-91ee-ace5fb804c63.png)
